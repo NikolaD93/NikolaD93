@@ -2,7 +2,7 @@
 
 My Skills : 
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,vite,tailwind,bootstrap,materialui,figma,firebase,git,github,vscode,netlify,html,css,sass,ps,node.js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,vite,tailwind,bootstrap,materialui,figma,firebase,git,github,vscode,netlify,html,css,sass,ps,nodejs)](https://skillicons.dev)
 
 # MY STATS 
 
