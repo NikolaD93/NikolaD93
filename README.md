@@ -3,8 +3,8 @@
 # Connect with me 👋
 
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img width="100" height="100" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/youtube-circle.png" alt="LinkedIn Badge"/>
+  <a href="https://www.youtube.com/channel/UCcHSX6C51HNqchQMjaHs3_A">
+    <img width="50" height="50" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/youtube-circle.png" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
