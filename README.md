@@ -4,7 +4,7 @@
 
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/facebook-circle.png)" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -15,7 +15,7 @@
 </div>
 
 
-# My Skills 👇👨‍💻 
+# My Skills 
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,vite,tailwind,bootstrap,materialui,figma,firebase,git,github,vscode,netlify,html,css,sass,ps,nodejs,typescript)](https://skillicons.dev)
