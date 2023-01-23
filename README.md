@@ -17,6 +17,9 @@
 
 # My Skills 
 
+# Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,vite,tailwind,bootstrap,materialui,figma,firebase,git,github,vscode,netlify,html,css,sass,ps,nodejs,typescript)](https://skillicons.dev)
 
