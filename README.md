@@ -27,7 +27,7 @@
 
 # Other 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,git,github,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,git,github,netlify,heroku)](https://skillicons.dev)
 
 # My Stats
 
