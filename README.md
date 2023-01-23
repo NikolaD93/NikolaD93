@@ -21,7 +21,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,typescript,nextjs,vite,tailwind,bootstrap,materialui,html,css,sass)](https://skillicons.dev)
 
+# Tools
+
 [![My Skills](https://skillicons.dev/icons?i=figma,firebase,git,github,vscode,netlify,html,css,sass,ps,nodejs,typescript)](https://skillicons.dev)
+
+# Other 
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,git,github,netlify)](https://skillicons.dev)
 
 # My Stats
 
