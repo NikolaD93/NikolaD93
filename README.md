@@ -20,7 +20,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,vite,tailwind,bootstrap,materialui,figma,firebase,git,github,vscode,netlify,html,css,sass,ps,nodejs,typescript)](https://skillicons.dev)
 
-# MY STATS 
+# My Stats
 
 ![](https://komarev.com/ghpvc/?username=NikolaD93&color=38E54D&label=PROFILE+VIEWS)
 
