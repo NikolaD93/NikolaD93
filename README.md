@@ -15,7 +15,7 @@
 </div>
 
 
-# My Skills 
+# My Skills 🤹‍♂️
 
 # Languages and Frameworks
 
@@ -29,7 +29,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,git,github,netlify,heroku)](https://skillicons.dev)
 
-# My Stats
+# My Stats 📈
 
 ![](https://komarev.com/ghpvc/?username=NikolaD93&color=38E54D&label=PROFILE+VIEWS)
 
