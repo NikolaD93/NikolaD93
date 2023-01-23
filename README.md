@@ -23,7 +23,7 @@
 
 # Tools
 
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode,ps,canva)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode,ps,idea)](https://skillicons.dev)
 
 # Other 
 
