@@ -19,7 +19,7 @@
 
 # Languages and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,nextjs,vite,tailwind,bootstrap,materialui,html,css,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,nextjs,vite,tailwind,bootstrap,materialui,html,css,sass,styledcomponents)](https://skillicons.dev)
 
 # Tools
 
