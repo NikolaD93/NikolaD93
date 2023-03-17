@@ -27,7 +27,7 @@
 
 ## Frameworks (CSS)
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,sass,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,sass,styledcomponents,materialui)](https://skillicons.dev)
 
 ## Tools
 
@@ -35,7 +35,7 @@
 
 ## Other 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,git,github,netlify,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,git,github,netlify,heroku,vite)](https://skillicons.dev)
 
 # My Stats 📈
 
