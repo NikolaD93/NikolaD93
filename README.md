@@ -17,15 +17,23 @@
 
 # My Skills 🤹‍♂️
 
-# Languages and Frameworks
+## Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,typescript,nextjs,html,css,tailwind,bootstrap,sass,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css)](https://skillicons.dev)
 
-# Tools
+## Frameworks (Frontend)
+
+[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
+
+## Frameworks (CSS)
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,sass,styledcomponents)](https://skillicons.dev)
+
+## Tools
 
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,ps,idea)](https://skillicons.dev)
 
-# Other 
+## Other 
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,git,github,netlify,heroku)](https://skillicons.dev)
 
