@@ -15,9 +15,9 @@
 </div>
 
 
-# My Skills 🤹‍♂️
+# Tech Stack 🤹‍♂️
 
-## Languages 
+## Languages and markups
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css)](https://skillicons.dev)
 
