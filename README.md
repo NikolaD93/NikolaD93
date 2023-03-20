@@ -1,6 +1,6 @@
 # Nikola Dojcinovic
 
-# Connect with me 
+# `Connect with me` 
 
 <div id="badges">
   <a href="https://www.youtube.com/channel/UCcHSX6C51HNqchQMjaHs3_A">
@@ -15,7 +15,7 @@
 </div>
 
 
-# Tech Stack ⚙
+# `Tech Stack` ⚙
 
 ## Languages and markups
 
@@ -37,7 +37,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,git,github,netlify,heroku,vite)](https://skillicons.dev)
 
-# My Stats 📈
+# `My Stats`
 
 ![](https://komarev.com/ghpvc/?username=NikolaD93&color=38E54D&label=PROFILE+VIEWS)
 
