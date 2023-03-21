@@ -27,7 +27,7 @@
 
 ## Frameworks (CSS)
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,sass,styledcomponents,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,sass,styledcomponents,materialui,chakra)](https://skillicons.dev)
 
 ## Tools
 
