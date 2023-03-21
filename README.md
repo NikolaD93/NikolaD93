@@ -31,7 +31,7 @@
 
 ## Backend
 
-[![My Skills](https://skillicons.dev/icons?i=node.js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ## Tools
 
