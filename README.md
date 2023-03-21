@@ -29,13 +29,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,sass,styledcomponents,materialui)](https://skillicons.dev)
 
+## Backend
+
+[![My Skills](https://skillicons.dev/icons?i=node.js)](https://skillicons.dev)
+
 ## Tools
 
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,ps,idea)](https://skillicons.dev)
 
 ## Other 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,git,github,netlify,heroku,vite,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,netlify,heroku,vite,vercel)](https://skillicons.dev)
 
 # `My Stats`
 
