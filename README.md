@@ -17,7 +17,7 @@
 
 # `Tech Stack` ⚙
 
-## Languages and markups
+## Languages & markups
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css)](https://skillicons.dev)
 
