@@ -29,9 +29,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,sass,styledcomponents,materialui)](https://skillicons.dev)
 
-## Backend
+## Backend & Databases
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo)](https://skillicons.dev)
 
 ## Tools
 
