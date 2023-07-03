@@ -40,7 +40,7 @@
 
 ## Other 
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,netlify,heroku,vite,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,netlify,heroku,vite,vercel,redux)](https://skillicons.dev)
 
 # `My Stats`
 
