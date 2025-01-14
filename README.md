@@ -24,7 +24,7 @@
 
 ## Frameworks (Frontend)
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vue)](https://skillicons.dev)
 
 ## Frameworks (CSS)
 
