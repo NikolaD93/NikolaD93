@@ -24,7 +24,7 @@
 
 ## Frameworks (Frontend)
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,reactquery,next,vue,vuetify,pinia)](https://skillicons.dev)
 
 ## Frameworks (CSS)
 
@@ -32,15 +32,19 @@
 
 ## Backend & Databases
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,supabase)](https://skillicons.dev)
 
 ## Tools
 
 [![My Skills](https://skillicons.dev/icons?i=webflow,figma,vscode,ps,idea)](https://skillicons.dev)
 
+## Testing
+
+[![My Skills](https://skillicons.dev/icons?i=jest,vitest)](https://skillicons.dev)
+
 ## Other 
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,netlify,vite,vercel,redux,reactquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,netlify,vite,vercel,bitbucket,codepen,postman)](https://skillicons.dev)
 
 # `My Stats`
 
