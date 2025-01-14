@@ -24,7 +24,7 @@
 
 ## Frameworks (Frontend)
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,reactquery,next,vue,vuetify,pinia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,next,vue,vuetify,pinia)](https://skillicons.dev)
 
 ## Frameworks (CSS)
 
