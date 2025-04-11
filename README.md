@@ -34,6 +34,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,supabase)](https://skillicons.dev)
 
+## CI/CD
+
+[![My Skills](https://skillicons.dev/icons?i=docker,jenkins)](https://skillicons.dev)
+
 ## Tools
 
 [![My Skills](https://skillicons.dev/icons?i=webflow,figma,vscode,ps,idea)](https://skillicons.dev)
@@ -44,7 +48,7 @@
 
 ## Other 
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,netlify,vite,vercel,bitbucket,codepen,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,netlify,vite,vercel,webpack,bitbucket,codepen,postman)](https://skillicons.dev)
 
 # `My Stats`
 
