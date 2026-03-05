@@ -36,7 +36,7 @@
 
 ## CI/CD
 
-[![My Skills](https://skillicons.dev/icons?i=docker,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,kubernetes)](https://skillicons.dev)
 
 ## Tools
 
@@ -48,7 +48,7 @@
 
 ## Other 
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,netlify,vite,vercel,webpack,bitbucket,codepen,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,netlify,vite,vercel,webpack,bitbucket,codepen,postman,sentry)](https://skillicons.dev)
 
 # `My Stats`
 
