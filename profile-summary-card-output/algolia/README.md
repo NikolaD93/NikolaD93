@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/NikolaD93/NikolaD93/master/profile-summary-card-output/algolia/4-productive-time.svg)
-```
-
-    
