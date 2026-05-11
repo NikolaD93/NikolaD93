@@ -3,7 +3,7 @@
 
 # `Connect with me` 
 
-<div id="badges">
+<div id="badges" style="display:flex">
   <a href="https://www.youtube.com/channel/UCcHSX6C51HNqchQMjaHs3_A">
     <img width="45" height="45" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/youtube-circle.png" alt="YouTube Badge"/>
   </a>
