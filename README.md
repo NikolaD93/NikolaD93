@@ -3,16 +3,22 @@
 
 # `Connect with me` 
 
-<div id="badges" style="display:flex">
-  <a href="https://www.youtube.com/channel/UCcHSX6C51HNqchQMjaHs3_A">
+<div id="badges">
+  <div>
+     <a href="https://www.youtube.com/channel/UCcHSX6C51HNqchQMjaHs3_A">
     <img width="45" height="45" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/youtube-circle.png" alt="YouTube Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/nikoladojcinovic93/">
+  </div>
+  <div>
+    <a href="https://www.linkedin.com/in/nikoladojcinovic93/">
     <img width="45" height="45" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/n_dojcinovic/">
+  </div>
+ <div>
+    <a href="https://www.instagram.com/n_dojcinovic/">
     <img width="45" height="45" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/instagram-circle.png" alt="Instagram Badge"/>
   </a>
+ </div>
 </div>
 
 
