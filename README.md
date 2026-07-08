@@ -38,7 +38,7 @@
 
 ## Backend & Databases
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,supabase,postgres,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mongo,supabase,postgres,prisma)](https://skillicons.dev)
 
 ## CI/CD
 
