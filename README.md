@@ -7,7 +7,7 @@
      <a href="https://www.youtube.com/channel/UCcHSX6C51HNqchQMjaHs3_A">
       <img width="45" height="45" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/youtube-circle.png" alt="YouTube Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/nikoladojcinovic93/">
+    <a href="https://www.linkedin.com/in/dojcinovic93/">
       <img width="45" height="45" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/n_dojcinovic/">
