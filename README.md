@@ -1,7 +1,7 @@
 
 # Nikola Dojcinovic
 
-# `Connect with me ` 
+# `Connect with me` 
 
 <div id="badges">
      <a href="https://www.youtube.com/channel/UCcHSX6C51HNqchQMjaHs3_A">
