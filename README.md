@@ -48,7 +48,7 @@
 
 ## Other 
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,netlify,vite,vercel,webpack,bitbucket,codepen,postman,sentry,yarn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,vite,vercel,postman,sentry)](https://skillicons.dev)
 
 # `My Stats`
 
