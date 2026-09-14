@@ -1,5 +1,5 @@
 
-# Nikola Dojcinovic
+# Nikola Dojcinovic - Full
 
 # `Connect with me` 
 
