@@ -1,5 +1,5 @@
 
-# Nikola Dojcinovic - Full Stack
+# Nikola Dojcinovic - Full Stack Developer
 
 # `Connect with me` 
 
