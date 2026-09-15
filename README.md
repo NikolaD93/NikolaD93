@@ -36,7 +36,7 @@
 
 ## CI/CD
 
-[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,kubernetes,azure,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,kubernetes,azure,cloudflare,githubactions)](https://skillicons.dev)
 
 ## Tools
 
