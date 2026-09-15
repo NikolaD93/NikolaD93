@@ -20,7 +20,7 @@
 
 ## Languages & markups
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,bash,html,css)](https://skillicons.dev)
 
 ## Frameworks (Frontend)
 
