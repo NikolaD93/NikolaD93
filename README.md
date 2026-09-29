@@ -1,6 +1,6 @@
 
 # Nikola Dojcinovic - Full Stack Developer                                                                                                                
-    
+     
 # `Connect with me` 
 
 <div id="badges">
